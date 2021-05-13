@@ -37,11 +37,12 @@ Referrer-Policy: origin-when-cross-origin
 課題2
 
 ローカルキャッシュのデータが更新されていないか確認するためのヘッダ名
-ヘッダを用いてグローリングを防止するためには
+ヘッダを用いたグローリング対策の一例
 
 
 参考
 
 https://developer.mozilla.org/ja/docs/Web/HTTP/Headers
+https://webtan.impress.co.jp/e/2009/03/27/4952
 https://webtan.impress.co.jp/e/2010/01/12/7156
 https://qiita.com/TeruhisaFukumoto/items/eeabfc838eea1ed65023
