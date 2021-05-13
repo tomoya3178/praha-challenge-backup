@@ -36,6 +36,7 @@ Referrer-Policy: origin-when-cross-origin
 
 課題2
 
+ローカルキャッシュのデータが更新されていないか確認するためのヘッダは何でしょうか
 
 
 参考
