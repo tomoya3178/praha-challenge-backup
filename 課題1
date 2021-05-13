@@ -32,3 +32,7 @@
 refererを送信しない
 refererによってリンク先からリンク元に干渉できてしまう
 noopenerで事足りるが、Edge等の一部ブラウザにおいてサポートされていない
+
+参考
+https://developer.mozilla.org/ja/docs/Web/HTTP/Headers
+https://qiita.com/TeruhisaFukumoto/items/eeabfc838eea1ed65023
