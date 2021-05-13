@@ -13,6 +13,7 @@
 サーバーはAcceptに応じた選択をContent-typeに指定
 
 ・Referer
+現在リクエストされているページへのリンク先を持った直前のウェブページのアドレス
 
 ・Accept-Encoding
 
