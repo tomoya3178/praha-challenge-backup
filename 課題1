@@ -38,11 +38,13 @@ Referrer-Policy: origin-when-cross-origin
 
 ローカルキャッシュのデータが更新されていないか確認するためのヘッダフィールド
 ヘッダを用いたグローリング対策の一例
+HTTPヘッダインジェクション対策の一例
 
 
 参考
 
 https://developer.mozilla.org/ja/docs/Web/HTTP/Headers
+https://www.ipa.go.jp/security/vuln/websecurity-HTML-1_7.html
 https://webtan.impress.co.jp/e/2009/03/27/4952
 https://webtan.impress.co.jp/e/2010/01/12/7156
 https://qiita.com/TeruhisaFukumoto/items/eeabfc838eea1ed65023
