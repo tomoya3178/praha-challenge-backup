@@ -1,7 +1,8 @@
+課題1
 https://airtable.com/tblg8ePOEQRDtIGiY/viwV3pAlEvPOOgmHF/recJJh8cYv7qwSnp1?blocks=hide
 
-課題1
 
+回答1-1
 ・Host
  リクエストが送信される先のサーバーのホスト名とポート番号の指定
 
@@ -28,25 +29,25 @@ https://airtable.com/tblg8ePOEQRDtIGiY/viwV3pAlEvPOOgmHF/recJJh8cYv7qwSnp1?block
 ・Location
 リダイレクト先のURL
 
+
+回答1-2
 Referrer-Policy: origin-when-cross-origin
 
 メモ
 refererを送信しない
-refererによってリンク先からリンク元に干渉できてしまう
+refererによってリンク先からリンク元に干渉できてしまうため
 noopenerで事足りるが、Edge等の一部ブラウザにおいてサポートされていない
 オリジンはウェブコンテンツにアクセスするために使われるURLのスキーム（プロトコル）、ホスト（ドメイン）、ポートによって定義される
 どこがフェッチの原点であるかを示し、パス情報は含まれず、サーバー名のみが含まれる
 
 
-課題2
-
-・ローカルキャッシュのデータが更新されていないか確認するためのヘッダフィールド
+回答2
+・ローカルキャッシュされているデータが更新されていないか確認するためのヘッダフィールド
 ・ヘッダを用いたグローリング対策の一例
 ・HTTPヘッダインジェクション対策の一例
 
 
 参考
-
 https://developer.mozilla.org/ja/docs/Web/HTTP/Headers
 https://www.ipa.go.jp/security/vuln/websecurity-HTML-1_7.html
 https://webtan.impress.co.jp/e/2009/03/27/4952
