@@ -20,5 +20,6 @@ curl https://httpbin.org/post -X POST -H "Content-type: application/x-www-form-u
 参考
 https://curl.se/
 https://learning.postman.com/
-https://qiita.com/yasuhiroki/items/a569d3371a66e365316f
+https://news.mynavi.jp/itsearch/article/hardware/2786
 https://www.webprofessional.jp/master-api-workflow-postman/
+https://qiita.com/yasuhiroki/items/a569d3371a66e365316f
