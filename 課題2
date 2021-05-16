@@ -19,5 +19,6 @@ curl -X POST -H "Content-type: application/x-www-form-urlencoded" -d '{"name": "
 
 参考
 https://curl.se/
+https://learning.postman.com/
 https://qiita.com/yasuhiroki/items/a569d3371a66e365316f
 https://www.webprofessional.jp/master-api-workflow-postman/
