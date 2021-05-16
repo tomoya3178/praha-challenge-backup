@@ -2,16 +2,16 @@
 https://airtable.com/tblg8ePOEQRDtIGiY/viwV3pAlEvPOOgmHF/recEM4COzMtz03WWs?blocks=hide
 
 回答1
-curl -H 'X-Test:hello' http://httpbin.org/headers
+curl http://httpbin.org/headers -H 'X-Test:hello'
 
 回答2
-curl -X POST -H "Content-type: application/json" -d '{"name": "hoge"}' https://httpbin.org/post
+curl https://httpbin.org/post -X POST -H "Content-type: application/json" -d '{"name": "hoge"}'
 
 回答3
-curl -X POST -H "Content-type: application/json" -d '{userA: {name: "hoge", age: 29}}' https://httpbin.org/post
+curl https://httpbin.org/post -X POST -H "Content-type: application/json" -d '{userA: {name: "hoge", age: 29}}'
 
 回答4
-curl -X POST -H "Content-type: application/x-www-form-urlencoded" -d '{"name": "hoge"}' https://httpbin.org/post
+curl https://httpbin.org/post -X POST -H "Content-type: application/x-www-form-urlencoded" -d '{"name": "hoge"}'
 
 クイズ
 ・curl利用時のUser-Agentのデフォルト値とその変更方法
