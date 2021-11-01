@@ -1,3 +1,4 @@
+import axios from "axios";
 import { NameApiService, NameApiServiceInterface } from "./nameApiService";
 import { DatabaseMock } from "./util";
 
@@ -41,3 +42,13 @@ export const getFirstNameThrowIfLong = async (
   }
   return firstName;
 };
+
+export const getFirstNameThrowIfLong2 = async (
+  maxNameLength: number
+): Promise<string> => {
+  const { data } = await axios.get('https://random-data-api.com/api/name/random_name')
+  if (data.first_name.length > maxNameLength) {
+    throw new Error("first_name too long");
+  }
+  return data.first_name;
+}
