@@ -52,3 +52,14 @@ export const getFirstNameThrowIfLong2 = async (
   }
   return data.first_name;
 }
+
+export const getFirstNames = async (
+  length: number,
+  nameApiService: NameApiServiceInterface,
+): Promise<string[]> => {
+  const firstNames = []
+  for (let index = 0; index < length; index++) {
+    firstNames.push(await nameApiService.getFirstName());
+  }
+  return firstNames;
+};
