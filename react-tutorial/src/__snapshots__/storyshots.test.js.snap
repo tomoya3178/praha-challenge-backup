@@ -8,14 +8,38 @@ exports[`Storyshots Board Initial 1`] = `
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    />
+    <button
+      className="square"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
   </div>
   <div
@@ -24,14 +48,38 @@ exports[`Storyshots Board Initial 1`] = `
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    />
+    <button
+      className="square"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
   </div>
   <div
@@ -40,14 +88,38 @@ exports[`Storyshots Board Initial 1`] = `
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    />
+    <button
+      className="square"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     />
   </div>
 </div>
@@ -61,18 +133,44 @@ exports[`Storyshots Board Triangles 1`] = `
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     >
       △
     </button>
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     >
       △
     </button>
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    >
+      △
+    </button>
+    <button
+      className="square"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     >
       △
     </button>
@@ -83,18 +181,44 @@ exports[`Storyshots Board Triangles 1`] = `
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     >
       △
     </button>
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     >
       △
     </button>
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    >
+      △
+    </button>
+    <button
+      className="square"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     >
       △
     </button>
@@ -105,21 +229,41 @@ exports[`Storyshots Board Triangles 1`] = `
     <button
       className="square"
       onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
     >
       △
     </button>
     <button
       className="square"
       onClick={[Function]}
-    >
-      △
-    </button>
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    />
     <button
       className="square"
       onClick={[Function]}
-    >
-      △
-    </button>
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    />
+    <button
+      className="square"
+      onClick={[Function]}
+      style={
+        Object {
+          "color": "red",
+        }
+      }
+    />
   </div>
 </div>
 `;
@@ -546,14 +690,38 @@ exports[`Storyshots Game A 1`] = `
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
+        />
+        <button
+          className="square"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
       </div>
       <div
@@ -562,14 +730,38 @@ exports[`Storyshots Game A 1`] = `
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
+        />
+        <button
+          className="square"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
       </div>
       <div
@@ -578,14 +770,38 @@ exports[`Storyshots Game A 1`] = `
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
         <button
           className="square"
           onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
+        />
+        <button
+          className="square"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "red",
+            }
+          }
         />
       </div>
     </div>
@@ -612,6 +828,11 @@ exports[`Storyshots Game A 1`] = `
 exports[`Storyshots Square Circle 1`] = `
 <button
   className="square"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
 >
   O
 </button>
@@ -620,6 +841,11 @@ exports[`Storyshots Square Circle 1`] = `
 exports[`Storyshots Square Cross 1`] = `
 <button
   className="square"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
 >
   X
 </button>
@@ -628,5 +854,10 @@ exports[`Storyshots Square Cross 1`] = `
 exports[`Storyshots Square Initial 1`] = `
 <button
   className="square"
+  style={
+    Object {
+      "color": "red",
+    }
+  }
 />
 `;

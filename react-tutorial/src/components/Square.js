@@ -1,6 +1,10 @@
 export function Square(props) {
   return (
-    <button className="square" onClick={props.onClick}>
+    <button
+      className="square"
+      style={{color: "red"}}
+      onClick={props.onClick}
+    >
       {props.value}
     </button>
   );
